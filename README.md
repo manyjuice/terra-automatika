@@ -2,7 +2,7 @@
 
 Ready-to-deploy community templates for Ansible, Terraform, SaltStack, Docker & Kubernetes for quick launch of popular infrastructure services - on bare metal, in VMs and containers.
 
-Our goal is to maintain a shared, well-documented production-ready setup library to get rid of sysadmins, DevOps, SRE routine where possible.
+Our goal is to maintain a shared, well-documented production-ready setup library to get rid of painful sysadmin, DevOps, SRE routine where possible.
 
 ### Why we do it
 
